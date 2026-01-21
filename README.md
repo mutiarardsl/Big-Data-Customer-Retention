@@ -202,11 +202,11 @@ rf_model = RandomForestClassifier(numTrees=20).fit(train_data)
 
 | Nama | NIM | Role |
 |------|-----|------|
-| Acik Imtia Chana | 235150701111038 | Data Engineer |
-| Hanifa Syifa Safitri | 235150707111031 | ML Engineer |
-| Mutiara Rosida Sholihat | 235150707111035 | Project Lead |
-| Lutfiah Nailil Izzah | 235150707111038 | Data Analyst |
-| Sylvasisca Andini Faradyan | 235150707111040 | DevOps |
+| Acik Imtia Chana | 235150701111038 | 
+| Hanifa Syifa Safitri | 235150707111031 | 
+| Mutiara Rosida Sholihat | 235150707111035 | 
+| Lutfiah Nailil Izzah | 235150707111038 | 
+| Sylvasisca Andini Faradyan | 235150707111040 | 
 
 **Dosen Pembimbing**: Putra Pandu Adikara, S.Kom., M.Kom.
 
