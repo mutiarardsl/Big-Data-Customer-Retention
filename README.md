@@ -6,7 +6,6 @@
 
 > Sistem prediksi retensi pelanggan berbasis Big Data menggunakan Apache Spark, PySpark, dan Hadoop dengan implementasi algoritma Machine Learning (Logistic Regression, Decision Tree, dan Random Forest).
 
-![Project Banner](docs/images/project_banner.png)
 
 ## 🎯 Deskripsi Project
 
