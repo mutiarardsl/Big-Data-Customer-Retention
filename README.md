@@ -200,8 +200,8 @@ rf_model = RandomForestClassifier(numTrees=20).fit(train_data)
 
 ## 👥 Tim Pengembang
 
-| Nama | NIM | Role |
-|------|-----|------|
+| Nama | NIM |
+|------|-----|
 | Acik Imtia Chana | 235150701111038 | 
 | Hanifa Syifa Safitri | 235150707111031 | 
 | Mutiara Rosida Sholihat | 235150707111035 | 
