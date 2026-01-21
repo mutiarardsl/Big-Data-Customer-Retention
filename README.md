@@ -221,15 +221,6 @@ rf_model = RandomForestClassifier(numTrees=20).fit(train_data)
 
 Project ini dilisensikan di bawah [MIT License](LICENSE)
 
-## 🤝 Kontribusi
-
-Kontribusi selalu welcome! Silakan buka issue atau submit pull request.
-
-## 📞 Kontak
-
-- 📧 Email: mutiara.rosida@student.ub.ac.id
-- 🔗 LinkedIn: [Your LinkedIn]
-- 🐙 GitHub: [@yourusername]
 
 ---
 
